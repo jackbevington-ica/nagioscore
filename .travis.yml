@@ -36,8 +36,8 @@ matrix:
             - g++-5
             - lcov
             - libgd-dev
-            - php5
-            - php5-gd
+            - php
+            - php-gd
             - unzip
             - valgrind
       env:
@@ -57,8 +57,8 @@ matrix:
             - g++-6
             - lcov
             - libgd-dev
-            - php5
-            - php5-gd
+            - php
+            - php-gd
             - unzip
             - valgrind
       env:
@@ -78,8 +78,8 @@ matrix:
             - g++-7
             - lcov
             - libgd-dev
-            - php5
-            - php5-gd
+            - php
+            - php-gd
             - unzip
             - valgrind
       env:
@@ -99,8 +99,8 @@ matrix:
             - g++-8
             - lcov
             - libgd-dev
-            - php5
-            - php5-gd
+            - php
+            - php-gd
             - unzip
             - valgrind
       env:
@@ -120,8 +120,8 @@ matrix:
             - gperf
             - lcov
             - libgd-dev
-            - php5
-            - php5-gd
+            - php
+            - php-gd
             - unzip
             - valgrind
       env:
@@ -143,8 +143,8 @@ matrix:
             - g++-4.9
             - lcov
             - libgd-dev
-            - php5
-            - php5-gd
+            - php
+            - php-gd
             - unzip
             - valgrind
       env:
